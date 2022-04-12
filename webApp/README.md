@@ -16,13 +16,12 @@
 
 ## :calling: About
 
-This app was built on Solana to allow anyone to submit a gif link which is saved on Solana's blockchain. This was built on the devnetwork so reworking may take a few changes. This project is also split into two: the smart contract and web application.
+This app was built on Solana to allow anyone to submit a gif link which is saved on Solana's blockchain. This was built on the devnetwork so reworking may take a few changes.
 
 ## :1234: Run
 
 - Setting up solana for smart contracts might be complicated. Check out [Windows](https://github.com/buildspace/buildspace-projects/blob/main/Solana_And_Web3/en/Section_2/Resources/windows_setup.md 'Windows') or [M1_mac](https://github.com/buildspace/buildspace-projects/blob/main/Solana_And_Web3/en/Section_2/Resources/m1_setup.md 'M1_mac')
-- To run the webApp 'cd webApp' then just go 'npm install' then 'npm start'
-- to run the smart contracts go 'cd smartContract' then 'npm install' then 'solana-keygen new' then verify it worked ny checking address with 'solana address' then run 'anchor test'. to deploy run 'anchor deploy' after airdropping SOL to your wallet with 'solana airdrop 2' done 3 times. If you want to edit the smart contract you have to mess around with idl.js . For more information visit :horse: &nbsp; [BuildSpace](https://app.buildspace.so/ 'BuildSpace').
+- To run download this repository, run $ npm install , and run $ npm start
 
 ## :gear: Core Tech Stack
 
