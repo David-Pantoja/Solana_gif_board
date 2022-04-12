@@ -39,8 +39,8 @@ This app was built on Solana to allow anyone to submit a gif link which is saved
 ## :camera_flash: Screenshots
 
 <p>
-    <img src="./public/board.png" width="250">
-    <img src="./public/connect.png" width="250">
+    <img src="./webApp/public/board.png" width="250">
+    <img src="./webApp/public/connect.png" width="250">
 </p>
 
 ## :memo: License <a aria-label="EVE-NET is free to use" href="https://choosealicense.com/licenses/mit/" target="_blank"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12" target="_blank" /></a>
